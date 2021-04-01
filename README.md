@@ -3,7 +3,6 @@
 [![Brightside](https://img.shields.io/badge/by-t3brightside.com-orange.svg?style=flat)](https://t3brightside.com)
 
 **TYPO3 CMS Microtemplate package with recommended extensions**
-<br />Automatic image optimisation and easy to add custom templates.
 
 **[Demo page](https://microtemplate.t3brightside.com/)**
 
