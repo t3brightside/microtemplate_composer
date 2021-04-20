@@ -16,11 +16,11 @@
         "t3brightside/microtemplate": "^2.1",
         "t3brightside/personnel": "^2.4",
         "t3brightside/youtubevideo": "^1.4",
-        "t3brightside/pagelist": "^2.4",
+        "t3brightside/pagelist": "^2.5",
         "t3brightside/advancedtitle": "^0.4",
         "t3brightside/favicon": "^0.1",
         "t3brightside/gallerycontent": "^0.1",
-        "lochmueller/staticfilecache": "^12.0",
+        "lochmueller/staticfilecache": "^12",
         "gridelementsteam/gridelements": "^10.0"
     },
     "minimum-stability": "stable",
