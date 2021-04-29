@@ -21,7 +21,8 @@
         "t3brightside/favicon": "^0.1",
         "t3brightside/gallerycontent": "^0.1",
         "lochmueller/staticfilecache": "^12",
-        "gridelementsteam/gridelements": "^10.0"
+        "gridelementsteam/gridelements": "^10.0",
+        "helhum/typo3-console": "^6.4"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
