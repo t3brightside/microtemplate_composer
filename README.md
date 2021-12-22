@@ -9,7 +9,7 @@
 ## Features
 
 - Installs TYPO3 and recommended packages to run a website similar to the Demo
-- TYPO3, Microtemplate & extensions install and all the content you have to do by yourself
+- TYPO3, Microtemplate & extensions setup and all the content you have to do by yourself
 
 ## Sources
 
